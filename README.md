@@ -30,9 +30,11 @@ Avec Docker, plus besoin de dire "ça marche chez moi mais pas chez toi", car to
 
 ## Pourquoi ne pas alors utilisé les VM ?
 
-|       |       | 
+|   VM    |    Docker   | 
 |---    |:-:    |
-|       |       | 
-|       |       |
-|       |       | 
+|  Occupe beaucoup de place en mémoire     |   Occupe beaucoup moins de place en mémoire    | 
+|    Démarrage lent   |   Démarrage rapide car il utilise le noyau en cours d'exécution de notre système    |
+| Difficile à mettre à l’échelle        |    Facile à mettre à l’échelle    | 
+|     Faible efficacité   |  Haute efficacité      | 
+|   Le stockage des volumes ne peut pas être partagé entre les machines virtuelles    |   Le stockage des volumes peut être partagé entre l’hôte et les conteneurs    | 
 
