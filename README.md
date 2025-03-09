@@ -38,3 +38,10 @@ Avec Docker, plus besoin de dire "ça marche chez moi mais pas chez toi", car to
 |     Faible efficacité   |  Haute efficacité      | 
 |   Le stockage des volumes ne peut pas être partagé entre les machines virtuelles    |   Le stockage des volumes peut être partagé entre l’hôte et les conteneurs    | 
 
+Docker repose sur une structure bien définie :
+
+    L’infrastructure correspond aux composants physiques de l’ordinateur (processeur, disque dur, mémoire, etc.).
+    Le système d’exploitation hôte est le logiciel qui permet de faire fonctionner l’ordinateur (Linux, macOS, Windows).
+    Le moteur Docker est installé sur ce système d’exploitation et permet de créer et exécuter des conteneurs.
+    Les applications s’exécutent à l’intérieur des conteneurs, qui sont isolés les uns des autres mais partagent les ressources de la machine hôte.
+
