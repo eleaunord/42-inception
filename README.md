@@ -30,9 +30,9 @@ Avec Docker, plus besoin de dire "ça marche chez moi mais pas chez toi", car to
 
 ## Pourquoi ne pas alors utilisé les VM ?
 
-|       |       |       |       |       |
-|---    |:-:    |:-:    |:-:    |--:    |
-|       |       |       |       |       |
-|       |       |       |       |       |
-|       |       |       |       |       |
+|       |       | 
+|---    |:-:    |
+|       |       | 
+|       |       |
+|       |       | 
 
