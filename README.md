@@ -1,6 +1,6 @@
 # 🐳 42-Inception
 
-**Inception* is a system administration project I completed as part of the 42 school curriculum. The goal was to create a secure, scalable container-based infrastructure using **Docker**, all configured from scratch.
+*Inception* is a system administration project I completed as part of the 42 school curriculum. The goal was to create a secure, scalable container-based infrastructure using **Docker**, all configured from scratch.
 
 ## What are containers?
 
